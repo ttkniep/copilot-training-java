@@ -23,9 +23,6 @@
 	</developers>
 	<modules>
 		<module>telemetry-processor</module>
-		<module>telemetry-producer</module>
-		<module>telemetry-store</module>
-		<module>telemetry-api</module>
 	</modules>
 	<scm>
 		<connection/>
