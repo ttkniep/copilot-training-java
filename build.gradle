@@ -1,0 +1,8 @@
+plugins {
+    id 'base'
+}
+
+allprojects {
+    group = 'com.zuehlke'
+    version = '0.0.1-SNAPSHOT'
+}
